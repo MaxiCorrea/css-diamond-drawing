@@ -21,36 +21,36 @@ span:nth-child(1) {
   left: 0;
   border-top: 50px solid transparent;
   border-left: 50px solid transparent;
-  border-bottom: 50px solid blue;
-  border-right: 50px solid gray;
+  border-bottom: 50px solid #26c893;
+  border-right: 50px solid #20bc7d;
 }
 
 span:nth-child(2) {
   position: absolute;
   top: 0;
   left: 50%;
-  border-top: 50px solid yellow;
-  border-left: 50px solid green;
-  border-bottom: 50px solid blue;
-  border-right: 50px solid gray;
+  border-top: 50px solid #1fb67c;
+  border-left: 50px solid #55ddb9;
+  border-bottom: 50px solid #26c893;
+  border-right: 50px solid #20bc7d;
 }
 
 span:nth-child(3) {
   position: absolute;
   top: 50%;
   left: 0;
-  border-top: 50px solid yellow;
-  border-left: 50px solid green;
-  border-bottom: 50px solid blue;
-  border-right: 50px solid gray;
+  border-top: 50px solid #1fb67c;
+  border-left: 50px solid #55ddb9;
+  border-bottom: 50px solid #26c893;
+  border-right: 50px solid #20bc7d;
 }
 
 span:nth-child(4) {
   position: absolute;
   top: 50%;
   left: 50%;
-  border-top: 50px solid yellow;
-  border-left: 50px solid green;
-  border-bottom: 50px solid blue;
-  border-right: 50px solid gray;
+  border-top: 50px solid #1fb67c;
+  border-left: 50px solid #55ddb9;
+  border-bottom: 50px solid #26c893;
+  border-right: 50px solid #20bc7d;
 }
